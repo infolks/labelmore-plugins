@@ -1,0 +1,1 @@
+Hosted plugin json file

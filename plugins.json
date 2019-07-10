@@ -1,0 +1,14 @@
+[
+    {
+        "title": "LabelMore Essentials",
+        "name": "@infolks/labelmore-essentials"
+    },
+    {
+        "title": "LabelMore Extras",
+        "name": "@infolks/labelmore-extras"
+    },
+    {
+        "title": "ADAS",
+        "name": "labelmore-plugin-adas"
+    }
+]
