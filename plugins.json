@@ -10,5 +10,9 @@
     {
         "title": "ADAS",
         "name": "labelmore-plugin-adas"
+    },
+    {
+        "title": "Medical",
+        "name": "labelmore-plugin-medical"
     }
 ]
