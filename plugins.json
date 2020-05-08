@@ -1,17 +1,17 @@
 [{
         "title": "LabelMore Essentials",
-        "name": "@infolks/labelmore-essentials"
+        "name": "@infolks/labelmoreessentials"
     },
     {
         "title": "LabelMore Extras",
-        "name": "@infolks/labelmore-extras"
+        "name": "@infolks/labelmoreextras"
     },
     {
         "title": "ADAS",
-        "name": "labelmore-plugin-adas"
+        "name": "labelmore-pluginadas"
     },
     {
         "title": "Medical",
-        "name": "labelmore-plugin-medical"
+        "name": "labelmore-pluginmedical"
     }
 ]
